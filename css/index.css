@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&display=swap');
+@import url('http://fonts.cdnfonts.com/css/sedan-sc');
+
+body {
+    margin: 0%;
+    padding: 0%;
+    background-size: cover;
+}
+
+dir {
+    margin: 0%;
+    padding: 0%;
+}
+
+.rec1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 711px;
+    height: 1024px;
+
+    background: linear-gradient(154.26deg, rgba(0, 0, 0, 0.6) 0%, rgba(255, 255, 255, 0) 100%), url(road-6881040_1920.jpg);
+}
+
+.rec2 {
+    position: absolute;
+    top: 413px;
+    left: 178px;
+    width: 354px;
+    height: 369px;
+
+    background: rgba(89, 83, 83, 0.3);
+    backdrop-filter: blur(2px);
+
+    border-radius: 171px;
+}
+
+
+.road {
+    position: absolute;
+    top: 507px;
+    left: 297px;
+    width: 116px;
+    height: 73px;
+
+    font-family: 'Secular One', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 73px;
+
+    color: #FFFFFF;
+    text-shadow: 0px 4px 0px rgb(0, 0, 0);
+    -webkit-text-stroke-width: 1.3px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+
+.text1 {
+    position: absolute;
+    top: 598px;
+    left: 243px;
+    width: 224px;
+    height: 50px;
+
+    font-family: 'Cute Font', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 50px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+    color: #FFFFFF;
+    text-shadow: 0px 4px 0px rgb(0, 0, 0);
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+.text2 {
+    position: absolute;
+    top: 651px;
+    left: 258px;
+    width: 195px;
+    height: 28px;
+
+    font-family: 'Sedan SC', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #B6B2B2;
+}
+
+.chat1_1 {
+    position: absolute;
+    top: 67px;
+    left: 754px;
+    width: 644px;
+    height: 277px;
+
+    background: rgba(37, 41, 31, 0.3);
+    border-radius: 39px;
+}
+
+.chat1_2 {
+    position: absolute;
+    top: 186px;
+    left: 1094px;
+    width: 111px;
+    height: 38px;
+
+    font-family: Cute Font;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 37px;
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.chat1_3 {
+    position: absolute;
+    top: 109px;
+    left: 778px;
+    width: 181px;
+    height: 193px;
+    
+    background: url(cat-5932474_1920.jpg);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 52px;
+}
+
+.chat2_1 {
+    position: absolute;
+    top: 373px;
+    left: 754px;
+    width: 644px;
+    height: 277px;
+
+    background: rgba(37, 41, 31, 0.5);
+    border-radius: 39px;
+}
+
+.chat2_2 {
+    position: absolute;
+    top: 499px;
+    left: 1094px;
+    width: 111px;
+    height: 13px;
+
+    font-family: Cute Font;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.chat2_3 {
+    position: absolute;
+    top: 415px;
+    left: 778px;
+    width: 192px;
+    height: 193px;
+
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(british-shorthair-6815375_1920.jpg);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 52px;
+}
+
+.chat3_1 {
+    position: absolute;
+    top: 679px;
+    left: 754px;
+    width: 644px;
+    height: 277px;
+
+    background: rgba(37, 41, 31, 0.5);
+    border-radius: 39px;
+}
+
+.chat3_2 {
+    position: absolute;
+    top: 805px;
+    left: 1094px;
+    width: 111px;
+    height: 13px;
+
+    font-family: Cute Font;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.chat3_3 {
+    position: absolute;
+    top: 721px;
+    left: 778px;
+    width: 192px;
+    height: 193px;
+
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(animal-6889575_1920.jpg);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 52px;
+}
